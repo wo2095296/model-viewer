@@ -1,0 +1,15 @@
+commit 8e724cdf20168e7b232372c8d6a26bbcf7764619
+Author: Christopher George <chrisgeorge@google.com>
+Date:   Thu Oct 29 11:32:49 2020 -1000
+
+    miscellaneous changes (#1677)
+    
+    * replace all quotations with empty string, default camera-controls is true
+    
+    * update environment skybox checkbox
+    
+    * update environment skybox checkbox white
+    
+    * fix, poster doesn't update material edits after interaction
+    
+    * remove comment
